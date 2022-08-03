@@ -3,6 +3,10 @@ public class lookForSeven {
         int [] array = {103, 501, 7002};
         String result = hasSeven(array);
         System.out.println(result);
+
+        /* int [] array2 = {103, 501, 5002, 49};
+        String result2 = hasSeven(array2);
+        System.out.println(result2); */
     }
 
     public static String hasSeven(int [] array){
