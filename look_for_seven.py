@@ -9,10 +9,10 @@ for i in array:
         
         else:
             result = "Boom!"
-            print("while, else " + str(i))
+            #print("while, else " + str(i))
             break
     
-print("printing")
+#print("printing")
 
 if(result == "Boom!"):
     print(result)
